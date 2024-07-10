@@ -1,4 +1,4 @@
-Winget Auto-Update Scheduler
+<b>Winget Auto-Update Scheduler</b>
 This script automates the addition of a task to the Task Scheduler, ensuring that winget update runs every time you log in. It's designed to keep your applications up-to-date effortlessly.
 
 Features
@@ -11,9 +11,9 @@ Installation
 Enable WinRM Service:
 Open PowerShell as Administrator and run:
 
-powershell
-Skopiuj kod
+powershell:
 Enable-PSRemoting -Force
+
 Download the Script:
 Clone the repository or download the script directly.
 
