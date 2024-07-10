@@ -1,4 +1,4 @@
-<b>Winget Auto-Update Scheduler</b><br>
+<h2>Winget Auto-Update Scheduler</h2>
 
 This script automates the addition of a task to the Task Scheduler, ensuring that winget update runs every time you log in. It's designed to keep your applications up-to-date effortlessly.
 
@@ -27,6 +27,6 @@ This script automates the addition of a task to the Task Scheduler, ensuring tha
         <h2>Usage</h2>
     <p>Once installed, the task will automatically run <code>winget update</code> every time you log in, keeping your applications up-to-date without manual intervention.</p>
     
-    <h2>Configuration</h2>
-    <p>All configuration files are located in the <code>C:\\ProgramData\\Winget</code> folder. You can modify these files to customize the behavior of the update process.</p>
+<h2>Configuration</h2>
+<p>All configuration files are located in the <code>C:\\ProgramData\\Winget</code> folder. You can modify these files to customize the behavior of the update process.</p>
     
